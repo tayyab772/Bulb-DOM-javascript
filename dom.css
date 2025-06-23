@@ -1,0 +1,12 @@
+h1{
+    font-size: 20px;
+    color: aquamarine;
+}
+
+#bulb{
+height: 300px;
+width: 300px;
+border-radius: 50%;
+border: 4px white;
+background-color: white;
+}
